@@ -44,7 +44,22 @@ This project demonstrates how to build a custom network infrastructure using Ama
 - Understanding Internet Gateway and NAT Gateway.
 - Managing inbound traffic using Security Groups.
 - Deploying a web server on Amazon EC2.
+- 
+ ## Project Architecture
 
-## Project Status
-Completed successfully.
- 
+![AWS VPC Architecture](architecture.png)
+
+## Lab Execution Screenshots
+
+### VPC
+![VPC](VPC.png)
+
+### Subnets
+![Subnets](subnets.png)
+
+### EC2 Web Server
+![EC2 Web Server](ec2-web-server.png)
+
+## Conclusion
+
+Successfully completed the AWS VPC and EC2 Web Server deployment lab.
